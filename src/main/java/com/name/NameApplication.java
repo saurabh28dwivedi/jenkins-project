@@ -1,13 +1,13 @@
-package jenkins.jankins;
+package com.name;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JankinsApplication {
+public class NameApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JankinsApplication.class, args);
+		SpringApplication.run(NameApplication.class, args);
 	}
 
 }
