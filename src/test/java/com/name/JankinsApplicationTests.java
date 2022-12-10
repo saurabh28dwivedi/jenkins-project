@@ -1,10 +1,10 @@
-package jenkins.jankins;
+package com.name;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JankinsApplicationTests {
+class NameApplicationTests {
 
 	@Test
 	void contextLoads() {
