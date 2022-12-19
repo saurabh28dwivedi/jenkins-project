@@ -10,6 +10,7 @@
 	<groupId>name-project</groupId>
 	<artifactId>project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>jankins</name>
 	<description>name project</description>
 	<properties>
