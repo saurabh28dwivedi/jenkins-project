@@ -1,4 +1,4 @@
-package com.name.controller;
+package com.gudwish.controller;
 
 public class NameOneController {
 
